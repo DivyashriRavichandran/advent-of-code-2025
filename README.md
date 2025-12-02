@@ -1,3 +1,11 @@
 # 🎄 Advent of Code 2025
 
-This repository contains my solutions for **Advent of Code 2025** — a yearly programming challenge featuring 12 days of small programming puzzles released throughout December. I solve them using JavaScript.
+This repository contains my solutions for [Advent of Code 2025](https://adventofcode.com/2025), an Advent calendar of small programming puzzles. This year features 12 days of puzzles. I solve them using JavaScript.
+
+<br/>
+
+| Puzzle | Question | Solution |
+|--------|------|----------|
+| Day 1 – Secret Entrance | [Link](https://adventofcode.com/2025/day/1) | [JS](https://github.com/DivyashriRavichandran/advert-of-code-2025/tree/main/Day-01-Secret-Entrance) |
+
+
