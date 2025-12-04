@@ -1,4 +1,4 @@
-## 🎄 Day 1: Secret Entrance — Summary
+## 🎄 Day 1: Secret Entrance
 
 This puzzle simulates a circular safe dial numbered 0–99, starting at 50. The input gives you rotations like L (left) or R (right) with a number of clicks.
 
