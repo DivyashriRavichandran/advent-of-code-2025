@@ -8,4 +8,4 @@ Count how many times the dial lands on 0 after each rotation. That number is the
 
 ### Part 2
 
-Using method 0x434C49434B, count every time the dial points at 0, including during rotations and at the end.
+Now count every time the dial points at 0, including during rotations and at the end.
