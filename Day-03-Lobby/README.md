@@ -9,11 +9,3 @@ Select exactly 2 batteries per bank to form the largest joltage. Sum all banks�
 ### Part 2
 
 Now select exactly 12 batteries per bank to form the largest possible joltage. Sum all banks’ maximum 12-digit joltage outputs to get the total.
-
-...
-
-## 🚀 How to run
-
-```
-node index.js
-```

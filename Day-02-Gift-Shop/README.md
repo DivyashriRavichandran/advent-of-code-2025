@@ -9,9 +9,3 @@ Check every ID in the given ranges and find all invalid IDs. Then add all invali
 ### Part 2
 
 Now an ID is invalid if it’s made of any digit sequence repeated two or more times (e.g. 1212121212). Find all such IDs in the ranges and sum them up using the new rule.
-
-## 🚀 How to run
-
-```
-node index.js
-```
