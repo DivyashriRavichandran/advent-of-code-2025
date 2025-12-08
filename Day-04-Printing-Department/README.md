@@ -7,3 +7,5 @@ A grid marks roll locations (`@`) and empty space (`.`). Forklifts can access a 
 Count how many rolls are accessible by a forklift (i.e., have < 4 neighboring `@`).
 
 ### Part 2
+
+Keep removing accessible rolls each round until none remain, and count the total removed.
